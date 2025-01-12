@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-class Solution {
+class Q49 {
     public List<List<String>> groupAnagrams(String[] strs) {
         
         Map<String, List<String>> map = new HashMap<>();
