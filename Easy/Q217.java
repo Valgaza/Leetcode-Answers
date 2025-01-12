@@ -1,3 +1,6 @@
+// Problem: Contains Dupilcate
+// Sorted the array and checked if any number appears consecutively.
+
 import java.util.*;
 
 public class Q217 {

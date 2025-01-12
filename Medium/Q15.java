@@ -1,3 +1,6 @@
+// Problem: 3Sum
+// Sorted the array, fixed a number, and for that number following the two pointer approach checked against all other numbers.
+
 import java.util.*;
 
 class Q15 {

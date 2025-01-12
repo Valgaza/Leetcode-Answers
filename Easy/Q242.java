@@ -1,3 +1,6 @@
+// Problem: Valid Anagram
+// CConverted both the string to a char array, sorted the arrays, checked if the same.
+
 import java.util.Arrays;
 
 public class Q242 {

@@ -1,6 +1,10 @@
+//Problem: Largest Number (Had help from a more experienced friend)
+/* Converted the array of numbers to list of strings , custom sorted the list using .sort(), and then using the 
+ * string builder class combined them all into one. */
+
 import java.util.*;
 
-class Solution {
+class Q179 {
     public String largestNumber(int[] nums) {
         List<String> word = new ArrayList<>();
         for (int num : nums) {

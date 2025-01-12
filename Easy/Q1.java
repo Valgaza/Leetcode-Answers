@@ -1,3 +1,6 @@
+// Problem: Two Sum
+// Initially deviced a brute force solution, on learning about HashMaps modified my solutiion to be more efficient.
+
 import java.util.HashMap;
 import java.util.Map;
 
