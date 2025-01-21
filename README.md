@@ -17,3 +17,4 @@ This repo contains solutions to LeetCode problems that I solve daily to improve 
 | 13-01-2025 | Top K Frequent Elements      | Medium     | [Q347.java](./Medium/Q347.java) |
 | 13-01-2025 | Product of Array Except Self | Medium     | [Q238.java](./Medium/Q238.java) |
 | 16-01-2025 | Median of Two Sorted Arrays  | Hard       | [Q4.java](./Hard/Q4.java)       |
+| 21-01-2025 | Vaild Sudoku                 | Medium     | [Q36.java](./Medium/Q36.java)   |
