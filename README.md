@@ -20,4 +20,5 @@ Sr. No. | Date       | Problem                              | Difficulty | Solut
 10      | 21-01-2025 | Vaild Sudoku                         | Medium     | [Q36.java](./Medium/Q36.java)   |
 11      | 21-01-2025 | Valid Palindrome                     | Easy       | [Q125.java](./Easy/Q125.java)   |
 12      | 21-01-2025 | Two Sum II - Input Array Is Sorted   | Medium     | [Q167.java](./Medium/Q167.java) |
-13      | 23-01-2025 | Sum of Subsequence Widths            | Hard       | [Q891java](./Hard/Q891.java)    |
+13      | 23-01-2025 | Sum of Subsequence Widths            | Hard       | [Q891.java](./Hard/Q891.java)   |
+14      | 24-01-2025 | Longest Consecutive Sequence         | Medium     | [Q128.java](./Medium/Q128.java) |
