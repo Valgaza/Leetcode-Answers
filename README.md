@@ -23,3 +23,4 @@ Sr. No. | Date       | Problem                              | Difficulty | Solut
 13      | 23-01-2025 | Sum of Subsequence Widths            | Hard       | [Q891.java](./Hard/Q891.java)   |
 14      | 24-01-2025 | Longest Consecutive Sequence         | Medium     | [Q128.java](./Medium/Q128.java) |
 15      | 24-01-2025 | Container With Most Water            | Medium     | [Q11.java](./Medium/Q11.java)   |
+16      | 25-01-2025 | Trapping Rain Water                  | Hard       | [Q42.java](./Hard/Q42.java)     | 
