@@ -24,3 +24,4 @@ Sr. No. | Date       | Problem                              | Difficulty | Solut
 14      | 24-01-2025 | Longest Consecutive Sequence         | Medium     | [Q128.java](./Medium/Q128.java) |
 15      | 24-01-2025 | Container With Most Water            | Medium     | [Q11.java](./Medium/Q11.java)   |
 16      | 25-01-2025 | Trapping Rain Water                  | Hard       | [Q42.java](./Hard/Q42.java)     | 
+17      | 25-01-2025 | Best Time to Buy and Sell Stock      | Easy       | [Q121.java](./Easy/Q121.cpp)    |
