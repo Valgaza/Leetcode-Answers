@@ -26,3 +26,5 @@ Sr. No. | Date       | Problem                                          | Diffic
 16      | 25-01-2025 | Trapping Rain Water                              | Hard       | [Q42.java](./Hard/Q42.java)     | 
 17      | 25-01-2025 | Best Time to Buy and Sell Stock                  | Easy       | [Q121.cpp](./Easy/Q121.cpp)     |
 18      | 26-01-2025 | Longest Substring Without Repeating Characters   | Medium     | [Q3.cpp](./Medium/Q3.cpp)       |
+19      | 27-01-2025 | Longest Repeating Character Replacement          | Medium     | [Q424.cpp](./Medium/Q424.cpp)   |
+20      | 27-01-2025 | Permutation in String                            | Medium     | [Q567.cpp](./Medium/Q567.cpp)   |

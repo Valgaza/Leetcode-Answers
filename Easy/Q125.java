@@ -15,9 +15,6 @@ class Q125 {
                 array1[count] = array[i];
                 count++;
             }
-            else{
-                continue;
-            }
         }
 
         for(int i = 0; i < (count/2); i++){
