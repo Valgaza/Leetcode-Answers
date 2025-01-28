@@ -30,3 +30,4 @@ Sr. No. | Date       | Problem                                          | Diffic
 20      | 27-01-2025 | Permutation in String                            | Medium     | [Q567.cpp](./Medium/Q567.cpp)   |
 21      | 28-01-2025 | Minimum Window Substring                         | Hard       | [Q76.cpp](./Hard/Q76.cpp)       |
 22      | 28-01-2025 | Sliding Window Maximum                           | Hard       | [Q239.java](./Hard/Q239.java)   |
+23      | 28-01-2025 | Valid Parantheses                                | Easy       | [Q20.cpp](./Easy/Q20.cpp)       |
