@@ -29,3 +29,4 @@ Sr. No. | Date       | Problem                                          | Diffic
 19      | 27-01-2025 | Longest Repeating Character Replacement          | Medium     | [Q424.cpp](./Medium/Q424.cpp)   |
 20      | 27-01-2025 | Permutation in String                            | Medium     | [Q567.cpp](./Medium/Q567.cpp)   |
 21      | 28-01-2025 | Minimum Window Substring                         | Hard       | [Q76.cpp](./Hard/Q76.cpp)       |
+22      | 28-01-2025 | Sliding Window Maximum                           | Hard       | [Q239.java](./Hard/Q239.java)   |
