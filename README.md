@@ -31,3 +31,4 @@ Sr. No. | Date       | Problem                                          | Diffic
 21      | 28-01-2025 | Minimum Window Substring                         | Hard       | [Q76.cpp](./Hard/Q76.cpp)       |
 22      | 28-01-2025 | Sliding Window Maximum                           | Hard       | [Q239.java](./Hard/Q239.java)   |
 23      | 28-01-2025 | Valid Parantheses                                | Easy       | [Q20.cpp](./Easy/Q20.cpp)       |
+24      | 29-01-2025 | Palindrome Number                                | Easy       | [Q9.java](./Easy/Q9.java)       |
