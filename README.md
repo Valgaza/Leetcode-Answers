@@ -33,3 +33,4 @@ Sr. No. | Date       | Problem                                          | Diffic
 23      | 28-01-2025 | Valid Parantheses                                | Easy       | [Q20.cpp](./Easy/Q20.cpp)       |
 24      | 29-01-2025 | Palindrome Number                                | Easy       | [Q9.java](./Easy/Q9.java)       |
 25      | 30-01-2025 | Pow(x, n)                                        | Medium     | [Q50.java](./Medium/Q50.java)   |
+26      | 31-01-2025 | Remove Element                                   | Easy       | [Q27.java](./Easy/Q27.java)     |
