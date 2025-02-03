@@ -36,3 +36,5 @@ Sr. No. | Date       | Problem                                          | Diffic
 26      | 31-01-2025 | Remove Element                                   | Easy       | [Q27.java](./Easy/Q27.java)     |
 27      | 01-02-2025 | Min Stack                                        | Medium     | [Q155.java](./Medium/Q155.java) |
 28      | 02-02-2025 | Evaluate Reverse Polish Notation                 | Medium     | [Q150.java](./Medium/Q150.java) |
+29      | 03-02-2025 | Remove Duplicates from Sorted Array              | Easy       | [Q26.cpp](./Easy/Q26.cpp)       |
+30      | 03-02-2025 | 
