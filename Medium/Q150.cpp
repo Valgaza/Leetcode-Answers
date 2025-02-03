@@ -1,3 +1,6 @@
+// Problem: Evaluate Reverse Polish Notation
+// Push while its an element, if you encounter an operator then pop top two and operate on them.
+
 #include <vector>
 #include <string>
 #include <stack>
