@@ -1,5 +1,7 @@
 // Problem: Daily Temperatures
-// 
+// This solution uses a monotonic decreasing stack to efficiently track temperatures. We iterate over the array, pushing 
+// each day's temperature and index onto the stack. If a warmer day is found, we pop from the stack and compute the waiting 
+// days for that cooler day. Since each element is pushed and popped at most once, the approach runs in O(n) time complexity.
 
 import java.util.*;
 

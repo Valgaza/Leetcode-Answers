@@ -37,4 +37,5 @@ Sr. No. | Date       | Problem                                          | Diffic
 27      | 01-02-2025 | Min Stack                                        | Medium     | [Q155.java](./Medium/Q155.java) |
 28      | 02-02-2025 | Evaluate Reverse Polish Notation                 | Medium     | [Q150.java](./Medium/Q150.java) |
 29      | 03-02-2025 | Remove Duplicates from Sorted Array              | Easy       | [Q26.cpp](./Easy/Q26.cpp)       |
-30      | 03-02-2025 | Daily Temperatures                               | Medium     | [Q739.java](./Medium/Q739.java) |
+30      | 04-02-2025 | Daily Temperatures                               | Medium     | [Q739.java](./Medium/Q739.java) |
+31      | 05-02-2025 | Car Fleet                                        | Medium     | [Q853.java](./Medium/Q853.java) |
