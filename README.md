@@ -42,3 +42,4 @@ Sr. No. | Date       | Problem                                          | Diffic
 32      | 06-02-2025 | Minimum Number of Coins to be Added              | Medium     | [Q2952.cpp](./Medium/Q2952.cpp) |
 33      | 06-02-2025 | Single Number                                    | Easy       | [Q136.cpp](./Easy/Q136.cpp)     |
 34      | 06-02-2025 | Reverse Bits                                     | Easy       | [Q190.cpp](./Easy/Q190.cpp)     |
+35      | 06-02-2025 | Sum of Two Integers                              | Medium     | [Q371.cpp](./Medium/Q371.cpp)   |
