@@ -40,3 +40,5 @@ Sr. No. | Date       | Problem                                          | Diffic
 30      | 04-02-2025 | Daily Temperatures                               | Medium     | [Q739.java](./Medium/Q739.java) |
 31      | 05-02-2025 | Car Fleet                                        | Medium     | [Q853.java](./Medium/Q853.java) |
 32      | 06-02-2025 | Minimum Number of Coins to be Added              | Medium     | [Q2952.cpp](./Medium/Q2952.cpp) |
+33      | 06-02-2025 | Single Number                                    | Easy       | [Q136.cpp](./Easy/Q136.cpp)     |
+34      | 06-02-2025 | Reverse Bits                                     | Easy       | [Q190.cpp](./Easy/Q190.cpp)     |
