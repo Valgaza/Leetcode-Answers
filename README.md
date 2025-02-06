@@ -39,3 +39,4 @@ Sr. No. | Date       | Problem                                          | Diffic
 29      | 03-02-2025 | Remove Duplicates from Sorted Array              | Easy       | [Q26.cpp](./Easy/Q26.cpp)       |
 30      | 04-02-2025 | Daily Temperatures                               | Medium     | [Q739.java](./Medium/Q739.java) |
 31      | 05-02-2025 | Car Fleet                                        | Medium     | [Q853.java](./Medium/Q853.java) |
+32      | 06-02-2025 | Minimum Number of Coins to be Added              | Medium     | [Q2952.cpp](./Medium/Q2952.cpp) |
