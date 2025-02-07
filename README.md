@@ -37,9 +37,10 @@ Sr. No. | Date       | Problem                                          | Diffic
 27      | 01-02-2025 | Min Stack                                        | Medium     | [Q155.java](./Medium/Q155.java) |
 28      | 02-02-2025 | Evaluate Reverse Polish Notation                 | Medium     | [Q150.java](./Medium/Q150.java) |
 29      | 03-02-2025 | Remove Duplicates from Sorted Array              | Easy       | [Q26.cpp](./Easy/Q26.cpp)       |
-30      | 04-02-2025 | Daily Temperatures                               | Medium     | [Q739.java](./Medium/Q739.java) |
-31      | 05-02-2025 | Car Fleet                                        | Medium     | [Q853.java](./Medium/Q853.java) |
-32      | 06-02-2025 | Minimum Number of Coins to be Added              | Medium     | [Q2952.cpp](./Medium/Q2952.cpp) |
-33      | 06-02-2025 | Single Number                                    | Easy       | [Q136.cpp](./Easy/Q136.cpp)     |
-34      | 06-02-2025 | Reverse Bits                                     | Easy       | [Q190.cpp](./Easy/Q190.cpp)     |
-35      | 06-02-2025 | Sum of Two Integers                              | Medium     | [Q371.cpp](./Medium/Q371.cpp)   |
+30      | 04-02-2025 | Daily Temperatures                                   | Medium     | [Q739.java](./Medium/Q739.java) |
+31      | 05-02-2025 | Car Fleet                                            | Medium     | [Q853.java](./Medium/Q853.java) |
+32      | 06-02-2025 | Minimum Number of Coins to be Added                  | Medium     | [Q2952.cpp](./Medium/Q2952.cpp) |
+33      | 06-02-2025 | Single Number                                        | Easy       | [Q136.cpp](./Easy/Q136.cpp)     |
+34      | 06-02-2025 | Reverse Bits                                         | Easy       | [Q190.cpp](./Easy/Q190.cpp)     |
+35      | 06-02-2025 | Sum of Two Integers                                  | Medium     | [Q371.cpp](./Medium/Q371.cpp)   |
+36      | 07-02-2025 | Find the Number of Distinct Colors Among the Balls   | Medium     | [Q3160.cpp](./Medium/Q3160.cpp) |
