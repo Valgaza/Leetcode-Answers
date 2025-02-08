@@ -45,3 +45,4 @@ Sr. No. | Date       | Problem                                              | Di
 35      | 06-02-2025 | Sum of Two Integers                                  | Medium     | [Q371.cpp](./Medium/Q371.cpp)   |
 36      | 07-02-2025 | Find the Number of Distinct Colors Among the Balls   | Medium     | [Q3160.cpp](./Medium/Q3160.cpp) |
 37      | 08-02-2025 | Design a Number Container System                     | Medium     | [Q2349.cpp](./Medium/Q2349.cpp) |
+38      | 09-02-2025 | Rotate Image                                         | Medium     | [Q48.cpp](./Medium/Q48.cpp)     |
