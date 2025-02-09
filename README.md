@@ -47,4 +47,5 @@ Sr. No. | Date       | Problem                                              | Di
 37      | 08-02-2025 | Design a Number Container System                     | Medium     | [Q2349.cpp](./Medium/Q2349.cpp) |
 38      | 09-02-2025 | Rotate Image                                         | Medium     | [Q48.cpp](./Medium/Q48.cpp)     |
 39      | 09-02-2025 | Tuple with Same Product                              | Medium     | [Q1726.cpp](./Medium/Q1726.cpp) |
-42      | 09-02-2025
+40 - 41 | 09-02-2025 |-------------------------------Weekly Contest 436----------------------------------------------------|
+42      | 09-02-2025 | Count Number of Bad Pairs                            | Medium     | [Q2364.cpp](./Medium/Q2364.cpp) |
