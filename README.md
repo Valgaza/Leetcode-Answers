@@ -50,3 +50,4 @@ Sr. No. | Date       | Problem                                              | Di
 40 - 41 | 09-02-2025 |----------------Weekly Contest 436--------------------|            |                                 |
 42      | 09-02-2025 | Count Number of Bad Pairs                            | Medium     | [Q2364.cpp](./Medium/Q2364.cpp) |
 43      | 10-02-2025 | Clear Digits                                         | Easy       | [Q3174.cpp](./Easy/Q3174.cpp)   |
+44      | 10-02-2025 | Set Matrix Zeroes                                    | Medium     | [Q73.cpp](./Medium/Q73.cpp)     |
