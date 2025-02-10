@@ -49,3 +49,4 @@ Sr. No. | Date       | Problem                                              | Di
 39      | 09-02-2025 | Tuple with Same Product                              | Medium     | [Q1726.cpp](./Medium/Q1726.cpp) |
 40 - 41 | 09-02-2025 |----------------Weekly Contest 436--------------------|            |                                 |
 42      | 09-02-2025 | Count Number of Bad Pairs                            | Medium     | [Q2364.cpp](./Medium/Q2364.cpp) |
+43      | 10-02-2025 | Clear Digits                                         | Easy       | [Q3174.cpp](./Easy/Q3174.cpp)   |
