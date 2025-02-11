@@ -51,4 +51,4 @@ Sr. No. | Date       | Problem                                              | Di
 42      | 09-02-2025 | Count Number of Bad Pairs                            | Medium     | [Q2364.cpp](./Medium/Q2364.cpp) |
 43      | 10-02-2025 | Clear Digits                                         | Easy       | [Q3174.cpp](./Easy/Q3174.cpp)   |
 44      | 10-02-2025 | Set Matrix Zeroes                                    | Medium     | [Q73.cpp](./Medium/Q73.cpp)     |
-45      | 11-02-2025 | Remove All Occurrences of a Substring                | Medium     | [Q1910.cpp]()
+45      | 11-02-2025 | Remove All Occurrences of a Substring                | Medium     | [Q1910.cpp](./Medium/Q1910.cpp) |
