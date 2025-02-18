@@ -53,3 +53,4 @@ Sr. No. | Date       | Problem                                              | Di
 44      | 10-02-2025 | Set Matrix Zeroes                                    | Medium     | [Q73.cpp](./Medium/Q73.cpp)     |
 45      | 11-02-2025 | Remove All Occurrences of a Substring                | Medium     | [Q1910.cpp](./Medium/Q1910.cpp) |
 46      | 12-02-2025 | Max Sum of a Pair With Equal Sum of Digits           | Medium     | [Q2342.cpp](./Medium/Q2342.cpp) |
+47      | 

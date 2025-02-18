@@ -5,7 +5,7 @@
 
 import java.util.*;
 
-class Solution {
+class Q853 {
     public int carFleet(int target, int[] position, int[] speed) {
         int n = position.length;
         if (n == 0) return 0;
