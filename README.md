@@ -53,4 +53,6 @@ Sr. No. | Date       | Problem                                              | Di
 44      | 10-02-2025 | Set Matrix Zeroes                                    | Medium     | [Q73.cpp](./Medium/Q73.cpp)     |
 45      | 11-02-2025 | Remove All Occurrences of a Substring                | Medium     | [Q1910.cpp](./Medium/Q1910.cpp) |
 46      | 12-02-2025 | Max Sum of a Pair With Equal Sum of Digits           | Medium     | [Q2342.cpp](./Medium/Q2342.cpp) |
-47      | 
+47      | 14-02-2025 | Minimum Operations to Exceed Threshold Value II      | Medium     | [Q3066.java](./Medium/Q3066.java)|
+48 - 49 | 16-02-2025 |----------------------Contest-------------------------|            |                                  |
+50      | 22-02-2025 | Reverse Linked List                                  | Easy       | [206.cpp](./Easy/Q206.cpp)       |
