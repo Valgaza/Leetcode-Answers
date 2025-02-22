@@ -1,7 +1,7 @@
 # LeetCode Solutions by Aarya Subhash Patil
 
 Welcome to my LeetCode solutions repository.  
-This repo contains solutions to LeetCode problems that I solve daily to improve my problem-solving skills.
+This repo contains solutions to the first 50 LeetCode problems I had solved to get better at problem solving.
 
 
 ## Progress Tracker
